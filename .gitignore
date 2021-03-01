@@ -1,0 +1,6 @@
+/node_modules
+/reports
+selenium-debug.log
+/uploads
+/tests
+.DS_Store

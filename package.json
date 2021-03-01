@@ -1,0 +1,28 @@
+{
+    "name": "auth-quickstart",
+    "version": "0.0.1",
+    "description": "",
+    "main": "app.js",
+    "author": "Petr Stribny",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "body-parser": "^1.19.0",
+        "connect-flash": "~0.1.1",
+        "cookie-parser": "^1.4.5",
+        "cors": "^2.8.5",
+        "express": "^4.17.0",
+        "express-fileupload": "^1.2.1",
+        "express-handlebars": "^5.2.1",
+        "express-session": "^1.17.1",
+        "lodash": "^4.17.21",
+        "morgan": "^1.10.0",
+        "mysql": "^2.11.1",
+        "mysql2": "^2.2.5",
+        "passport": "~0.3.0",
+        "passport-local": "~1.0.0",
+        "sequelize": "^6.5.0"
+    }
+}
