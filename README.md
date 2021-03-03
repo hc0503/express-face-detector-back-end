@@ -2,6 +2,11 @@
 
 Clone the repository and simply run `npm install` from the root folder.
 
+## Installation
+```
+npm install
+```
+
 ## Configuration
 
 In order to run the application, a database connection string has to be configured. The connection string is stored in `app/sequelize.js`.
