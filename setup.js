@@ -1,6 +1,6 @@
-var cleanup = require('./tests/utils/cleanup.js')
+var cleanup = require('./utils/cleanup.js')
 
 cleanup(function() {
-  console.log('Setup finished.')
-  process.exit()
+    console.log('Setup finished.')
+    process.exit()
 })
