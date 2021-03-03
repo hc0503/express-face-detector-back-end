@@ -20,3 +20,7 @@ From the root folder of the project, you can run the application with:
 ```
 node app.js
 ```
+Or
+```
+npm start
+```
