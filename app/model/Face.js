@@ -5,6 +5,10 @@ var attributes = {
         type: Sequelize.INTEGER,
         allowNull: true
     },
+    user_email: {
+        type: Sequelize.STRING,
+        allowNull: true
+    },
     age: {
         type: Sequelize.INTEGER,
     },
