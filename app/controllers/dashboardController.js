@@ -13,6 +13,7 @@ module.exports.uploadFace = function(req, res) {
             var newFace = {
                 age: req.body.age,
                 gender: req.body.gender,
+                user_email: req.body.user_email,
                 filename: filename
             }
 
